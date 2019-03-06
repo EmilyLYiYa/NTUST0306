@@ -1,0 +1,12 @@
+body {background-color: lightgrey;}
+h1   {color: purple;}
+p    {color: black;}
+
+p.error {
+  color: darkblue;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+	
